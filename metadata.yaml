@@ -1,11 +1,16 @@
 _repo: Motion-Pictures-1950-1959_59656
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59656-h/images/cover.jpg
 creator:
   author:
     agent_name: Copyright Office Library of Congress.
     gutenberg_agent_id: '50557'
     url: http://www.gutenberg.org/2009/agents/50557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59656#Motion-Pictures-1950-1959
 gutenberg_issued: '2019-06-02'
 gutenberg_type: Text
 identifiers:
